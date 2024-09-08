@@ -1,7 +1,7 @@
-import HomePages from "./Components/Templates/HomePages";
+import HomePages from "./components/templates/HomePages";
 
 function App() {
-  return <HomePages/> ;
+  return <HomePages />;
 }
 
 export default App;
